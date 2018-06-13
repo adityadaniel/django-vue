@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+env
+myproject/db.sqlite3
+myproject/myproject/settings_secret.py
+.DS_Store
